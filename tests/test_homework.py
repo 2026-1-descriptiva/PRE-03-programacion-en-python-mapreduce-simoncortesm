@@ -6,8 +6,6 @@ import os
 
 import homework.word_count as wc
 
-wc.initialize_folder
-
 
 def test_01():
     """Test Word Count"""
